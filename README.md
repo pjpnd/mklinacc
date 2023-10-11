@@ -19,3 +19,4 @@ Just download the PowerShell (.ps1) script file. You don't need the entire .zip 
 
 - Creating an input flag to make password randomization optional (user should be able to choose to create the account with no password, set a custom password, or have the script randomize one)
 - Further input validation/sanitization on user input when parsing to $displayName
+- Verify running user has admin privileges when starting the script
